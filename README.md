@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+## CRUD App
+리액트 JS를 이용한 CRUD 앱
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
